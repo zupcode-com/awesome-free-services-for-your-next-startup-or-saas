@@ -1,4 +1,5 @@
 # 🔥 Awesome FREE services for your next Startup / SAAS
+- [submission-site-discovery](https://github.com/SeeleAI/submission-site-discovery) - Automated discovery of product submission sites, launch directories, and distribution channels for indie hackers.
 
 Build your next startup for **FREE** with services ranging from website design, app development, idea validation, user testing, saas feedback, seo audit, marketing hacks, growth consulting, fundraising help and many more services!
 
