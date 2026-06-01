@@ -5,6 +5,7 @@ Build your next startup for **FREE** with services ranging from website design, 
 ## 👉 This list is updated every week
 
 - Share this with as many people as you can
+- [WebCoreLab Free SEO Audit](https://webcorelab.com) — Free AI-powered SEO audit for startups. 272 checks: tech, on-page, AI visibility. Toronto agency.
 
 ### ⏲ Last Updated May 30, 2026
 
